@@ -11,7 +11,7 @@
 
 - In the FIRST Robotics spirit of Teamwork, the Bluejackets would like to help others get started with programming.
   It's often one of the biggest barriers keeping many teams from getting up and running.
-  So take a look around the repositories!
+  So take a look around the repositories, and send us a message on our socials with any programming questions!
 
 
 <!---
